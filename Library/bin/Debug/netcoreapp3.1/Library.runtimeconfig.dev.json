@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kreso\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kreso\\.nuget\\packages"
+    ]
+  }
+}
